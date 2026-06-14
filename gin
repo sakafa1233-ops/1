@@ -66,6 +66,24 @@ getgenv().Config = {
         ["Ice Serpent"] = 99,
         ["Robin"] = 5,
         ["Deer"] = 5
+        ["Big Monkey"] = 99, 
+        ["Big Bee"] = 99, 
+        ["Big Black Dragon"] = 99, 
+        ["Big Golden Dragonfly"] = 99, 
+        ["Big Unicorn"] = 99, 
+        ["Big Raccoon"] = 99, 
+        ["Big Ice Serpent"] = 99,
+        ["Big Robin"] = 5,
+        ["Big Deer"] = 5
+        ["Huge Monkey"] = 99, 
+        ["Huge Bee"] = 99, 
+        ["Huge Black Dragon"] = 99, 
+        ["Huge Golden Dragonfly"] = 99, 
+        ["Huge Unicorn"] = 99, 
+        ["Huge Raccoon"] = 99, 
+        ["Huge Ice Serpent"] = 99,
+        ["Huge Robin"] = 5,
+        ["Huge Deer"] = 5
         },
         ["Pets To Equip"] = {} -- chua hoat dong
     },
