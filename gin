@@ -86,7 +86,7 @@ getgenv().Config = {
     ["Mail"] = {
         ["Auto Mail"] = true,
         ["Name Auto Mail"] = {"Raky_VN113"},
-        ["Seed Auto Mail"] = {"Rainbow", "Gold", "Moon Bloom", "Dragon's Breath"},
+        ["Seed Auto Mail"] = {"Rainbow", "Gold", "Moon Bloom", "Bamboo", "Dragon's Breath"},
         ["Pet Auto Mail"] = {"Monkey", "Bee", "Black Dragon", "Golden Dragonfly", "Unicorn", "Raccoon", "Ice Serpent", "Robin", "Deer"}
     },
     ["Anti AFK"] = {
