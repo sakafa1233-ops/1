@@ -81,13 +81,13 @@ getgenv().Config = {
         ["Notify Seed Purchase"] = true,
         ["Notify Pet Purchase"] = true,
         ["Only These Seeds"] = {"Moon Bloom", "Bamboo", "Dragon's Breath"},
-        ["Only These Pets"] = {"Monkey", "Bee", "Black Dragon", "Golden Dragonfly", "Unicorn", "Raccoon", "Ice Serpent", "Robin"}
+        ["Only These Pets"] = {"Monkey", "Bee", "Black Dragon", "Golden Dragonfly", "Unicorn", "Raccoon", "Ice Serpent"}
     },
     ["Mail"] = {
         ["Auto Mail"] = true,
         ["Name Auto Mail"] = {"Raky_VN113"},
         ["Seed Auto Mail"] = {"Rainbow", "Gold", "Moon Bloom", "Bamboo", "Dragon's Breath"},
-        ["Pet Auto Mail"] = {"Monkey", "Bee", "Black Dragon", "Golden Dragonfly", "Unicorn", "Raccoon", "Ice Serpent", "Robin", "Deer"}
+        ["Pet Auto Mail"] = {"Monkey", "Bee", "Black Dragon", "Golden Dragonfly", "Unicorn", "Raccoon", "Ice Serpent", "Deer"}
     },
     ["Anti AFK"] = {
         ["Enabled"] = true
