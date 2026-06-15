@@ -65,7 +65,7 @@ getgenv().Config = {
         ["Raccoon"] = 99, 
         ["Ice Serpent"] = 99,
         ["Robin"] = 5,
-        ["Deer"] = 5
+        ["Deer"] = 0
         },
         ["Pets To Equip"] = {} -- chua hoat dong
     },
