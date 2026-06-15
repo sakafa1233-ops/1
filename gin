@@ -96,6 +96,6 @@ getgenv().Config = {
         ["Enabled"] = true,
         ["FPS Cap"] = 60,
         ["FPS Boost"] = true,
-        ["Disable 3D Render"] = false
+        ["Disable 3D Render"] = true
     }
 }loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/20dc8f3aafd45757e45c0f34633d1ce6.lua"))()
