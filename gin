@@ -80,7 +80,7 @@ getgenv().Config = {
         ["Notify Harvest"] = false,
         ["Notify Seed Purchase"] = true,
         ["Notify Pet Purchase"] = true,
-        ["Only These Seeds"] = {"Moon Bloom", "Dragon's Breath"},
+        ["Only These Seeds"] = {"Moon Bloom", "Bamboo", "Dragon's Breath"},
         ["Only These Pets"] = {"Monkey", "Bee", "Black Dragon", "Golden Dragonfly", "Unicorn", "Raccoon", "Ice Serpent", "Robin"}
     },
     ["Mail"] = {
@@ -96,6 +96,6 @@ getgenv().Config = {
         ["Enabled"] = true,
         ["FPS Cap"] = 60,
         ["FPS Boost"] = true,
-        ["Disable 3D Render"] = true
+        ["Disable 3D Render"] = false
     }
 }loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/20dc8f3aafd45757e45c0f34633d1ce6.lua"))()
